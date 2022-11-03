@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperLogger", "SuperLogger\SuperLogger.csproj", "{7C46CBB4-39BD-4835-9619-51F9D9A90FFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperApp", "SuperApp\SuperApp.csproj", "{AD76BF50-F845-4CCB-9A10-36D3E4082054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C46CBB4-39BD-4835-9619-51F9D9A90FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C46CBB4-39BD-4835-9619-51F9D9A90FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C46CBB4-39BD-4835-9619-51F9D9A90FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C46CBB4-39BD-4835-9619-51F9D9A90FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD76BF50-F845-4CCB-9A10-36D3E4082054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD76BF50-F845-4CCB-9A10-36D3E4082054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD76BF50-F845-4CCB-9A10-36D3E4082054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD76BF50-F845-4CCB-9A10-36D3E4082054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6753103-740A-4B06-80BF-AF38E9DAAD0C}
+	EndGlobalSection
+EndGlobal
